@@ -1,0 +1,17 @@
+"cohort","history","status","n"
+"CHARLS",0,"fall_response",1876
+"CHARLS",1,"fall_response",599
+"CHARLS",0,"known_alive_no_valid_fall_response",87
+"CHARLS",1,"known_alive_no_valid_fall_response",32
+"CHARLS",0,"recorded_death",106
+"CHARLS",1,"recorded_death",25
+"CHARLS",0,"unknown_vital_or_interview_status",100
+"CHARLS",1,"unknown_vital_or_interview_status",23
+"ELSA",0,"fall_response",4454
+"ELSA",1,"fall_response",325
+"ELSA",0,"known_alive_no_valid_fall_response",149
+"ELSA",1,"known_alive_no_valid_fall_response",17
+"ELSA",0,"recorded_death",66
+"ELSA",1,"recorded_death",7
+"ELSA",0,"unknown_vital_or_interview_status",441
+"ELSA",1,"unknown_vital_or_interview_status",30

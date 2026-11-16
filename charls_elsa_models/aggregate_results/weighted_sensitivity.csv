@@ -1,0 +1,3 @@
+"cohort","model","m","n","events","clusters","log_rr","se_log_rr","rr","ci_low","ci_high","p","df","lambda","risk0","risk1","risk_difference","rd_low","rd_high","weighting"
+"ELSA","survey_weighted",30,4779,1134,3701,0.215463603957347,0.0898438829698823,1.24043683510956,1.0400977766075,1.47936432179998,0.0165255128465691,3669.31207883555,0.000901719239101234,0.235140075005292,0.291677244118147,0.0565371691128548,0.00610960807304423,0.106964730152665,"survey_weight"
+"CHARLS","survey_weighted",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"unavailable_in_frozen_extract"

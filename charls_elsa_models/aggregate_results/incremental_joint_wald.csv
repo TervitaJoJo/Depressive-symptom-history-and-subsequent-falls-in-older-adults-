@@ -1,0 +1,7 @@
+"cohort","model","block","terms","m","F","df1","df2","p","riv"
+"CHARLS","current_symptoms_only","current_score","current_score1;current_score2;current_score3;current_score4;current_score5;current_score6;current_score7;current_score8;current_score9",30,0.980573313982932,9,2019.00296442688,0.453941972669073,0
+"CHARLS","current_symptoms_plus_history","current_score","current_score1;current_score2;current_score3;current_score4;current_score5;current_score6;current_score7;current_score8;current_score9",30,0.56789121457187,9,2018.00296589224,0.824312314918419,0
+"CHARLS","current_symptoms_plus_history","history","hist1",30,17.7255979372678,1,2018.00296589224,2.66377542059198e-05,0
+"ELSA","current_symptoms_only","current_score","current_score1;current_score2;current_score3",30,7.30488491539525,3,3683.96286765994,7.00004346354968e-05,0.000463716879601275
+"ELSA","current_symptoms_plus_history","current_score","current_score1;current_score2;current_score3",30,5.23806820140264,3,3682.97265078366,0.0013169910379995,0.000399454298442237
+"ELSA","current_symptoms_plus_history","history","hist1",30,7.71737317253544,1,3682.95790865731,0.00549689395969892,0.00026073491433597

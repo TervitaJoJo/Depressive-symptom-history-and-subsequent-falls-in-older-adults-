@@ -1,0 +1,5 @@
+"cohort","group","n","observed","missing","observed_fraction"
+"CHARLS","prior_low_current_low",2169,1876,293,0.864914707238359
+"CHARLS","prior_high_current_low",679,599,80,0.882179675994109
+"ELSA","prior_low_current_low",5110,4454,656,0.871624266144814
+"ELSA","prior_high_current_low",379,325,54,0.857519788918206
