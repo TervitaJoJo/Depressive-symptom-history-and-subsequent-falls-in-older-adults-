@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-01",
+  "input_md5": "0281cd1ced9b37a879fca8d9796b90cf",
+  "n_broad": 4779,
+  "households": 3701,
+  "n_narrow": 4427,
+  "excluded_current3": 352,
+  "reclassified_prior3_broad": 265,
+  "reclassified_prior3_narrow": 203,
+  "imputations": 30,
+  "iterations": 20,
+  "bootstrap_per_imputation": 1000,
+  "bootstrap_fits": 120000,
+  "bootstrap_failed": 0,
+  "spline_knots": [66, 73],
+  "spline_boundaries": [65, 90],
+  "dfcom": 3437,
+  "weighted_vs_replicated_max_abs": 7.5495e-15,
+  "component_identity_max_abs": 4.1633e-17
+}

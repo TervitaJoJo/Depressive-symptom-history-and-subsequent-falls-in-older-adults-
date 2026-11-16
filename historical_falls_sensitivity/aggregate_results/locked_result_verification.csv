@@ -1,0 +1,5 @@
+"cohort","model","pass","columns"
+"CHARLS","frozen_primary_check",TRUE,"n;events;rr;ci_low;ci_high;risk0;risk1;risk_difference;rd_low;rd_high"
+"CHARLS","both_intervals_18_30",TRUE,"n;events;rr;ci_low;ci_high"
+"ELSA","frozen_primary_check",TRUE,"n;events;rr;ci_low;ci_high;risk0;risk1;risk_difference;rd_low;rd_high"
+"ELSA","both_intervals_18_30",TRUE,"n;events;rr;ci_low;ci_high"

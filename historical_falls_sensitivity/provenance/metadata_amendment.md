@@ -1,0 +1,3 @@
+# Metadata amendment, before any new association models
+
+2026-11-15: The Harmonized ELSA G3 codebook (PDF p. 356) and variable inventory show that historical wave 4 uses r4fall1y (previous year), whereas historical waves 5-7 use r5fall-r7fall (previous two years). There is no r4fall variable. This source-driven mapping replaces the generic wave-4-to-7 RwFALL description. Use the actual recorded binary history response in each wave and report the recall difference explicitly. This affects only the new historical-falls covariate; primary index waves 5-8 and outcome waves 6-9 retain their original two-year indicators. The fixed analytic-window covariate remains in the model. No choice depends on association estimates.
